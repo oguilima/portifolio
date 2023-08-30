@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/%7Bportifolio%7D/static/css/main.8ddf586e.css",
-    "main.js": "/%7Bportifolio%7D/static/js/main.ccfa726a.js",
-    "static/media/background.jpg": "/%7Bportifolio%7D/static/media/background.3fd16453471d8b9b186d.jpg",
-    "static/media/portifolio.png": "/%7Bportifolio%7D/static/media/portifolio.08f4bab96186170759a5.png",
-    "static/media/cotacaoEletronica.jpg": "/%7Bportifolio%7D/static/media/cotacaoEletronica.d5245d6d3878d3cc8b0b.jpg",
-    "static/media/mfx.jpeg": "/%7Bportifolio%7D/static/media/mfx.3ec2415442428aa96c8b.jpeg",
-    "static/media/gestaoFat.jpg": "/%7Bportifolio%7D/static/media/gestaoFat.91a8273bb72f66e8c83b.jpg",
-    "static/media/casal.jpeg": "/%7Bportifolio%7D/static/media/casal.48f047e87552ff29beb0.jpeg",
-    "static/media/perfil.jpg": "/%7Bportifolio%7D/static/media/perfil.bc4ec727cafcd3cf8a8d.jpg",
-    "static/media/tougths.png": "/%7Bportifolio%7D/static/media/tougths.4ddebe58ac282a94131e.png",
-    "static/media/getapet.png": "/%7Bportifolio%7D/static/media/getapet.0dcd3139dfe4b8be73e3.png",
-    "static/media/ha.jpeg": "/%7Bportifolio%7D/static/media/ha.82700ba0df9ddac603c4.jpeg",
-    "static/media/zara.jpeg": "/%7Bportifolio%7D/static/media/zara.db50d86573b9f007dfa9.jpeg",
-    "static/media/cpa.png": "/%7Bportifolio%7D/static/media/cpa.2bdb095d5a8162b1a7e1.png",
-    "static/media/podcastr.jpg": "/%7Bportifolio%7D/static/media/podcastr.fcd95f25ca3317732bf7.jpg",
-    "static/media/gestUsua.jpg": "/%7Bportifolio%7D/static/media/gestUsua.9979c3f5ed2153d8f4ea.jpg",
-    "static/media/saopaulo.jpg": "/%7Bportifolio%7D/static/media/saopaulo.3af2c8153c55c27cf0e5.jpg",
-    "static/media/luna.jpeg": "/%7Bportifolio%7D/static/media/luna.bb0ccac3dcd4a2f3e49f.jpeg",
-    "index.html": "/%7Bportifolio%7D/index.html",
-    "main.8ddf586e.css.map": "/%7Bportifolio%7D/static/css/main.8ddf586e.css.map",
-    "main.ccfa726a.js.map": "/%7Bportifolio%7D/static/js/main.ccfa726a.js.map"
+    "main.css": "/portifolio/static/css/main.74322d80.css",
+    "main.js": "/portifolio/static/js/main.a2b3c4e5.js",
+    "static/media/background.jpg": "/portifolio/static/media/background.3fd16453471d8b9b186d.jpg",
+    "static/media/portifolio.png": "/portifolio/static/media/portifolio.08f4bab96186170759a5.png",
+    "static/media/cotacaoEletronica.jpg": "/portifolio/static/media/cotacaoEletronica.d5245d6d3878d3cc8b0b.jpg",
+    "static/media/mfx.jpeg": "/portifolio/static/media/mfx.3ec2415442428aa96c8b.jpeg",
+    "static/media/gestaoFat.jpg": "/portifolio/static/media/gestaoFat.91a8273bb72f66e8c83b.jpg",
+    "static/media/casal.jpeg": "/portifolio/static/media/casal.48f047e87552ff29beb0.jpeg",
+    "static/media/perfil.jpg": "/portifolio/static/media/perfil.bc4ec727cafcd3cf8a8d.jpg",
+    "static/media/tougths.png": "/portifolio/static/media/tougths.4ddebe58ac282a94131e.png",
+    "static/media/getapet.png": "/portifolio/static/media/getapet.0dcd3139dfe4b8be73e3.png",
+    "static/media/ha.jpeg": "/portifolio/static/media/ha.82700ba0df9ddac603c4.jpeg",
+    "static/media/zara.jpeg": "/portifolio/static/media/zara.db50d86573b9f007dfa9.jpeg",
+    "static/media/cpa.png": "/portifolio/static/media/cpa.2bdb095d5a8162b1a7e1.png",
+    "static/media/podcastr.jpg": "/portifolio/static/media/podcastr.fcd95f25ca3317732bf7.jpg",
+    "static/media/gestUsua.jpg": "/portifolio/static/media/gestUsua.9979c3f5ed2153d8f4ea.jpg",
+    "static/media/saopaulo.jpg": "/portifolio/static/media/saopaulo.3af2c8153c55c27cf0e5.jpg",
+    "static/media/luna.jpeg": "/portifolio/static/media/luna.bb0ccac3dcd4a2f3e49f.jpeg",
+    "index.html": "/portifolio/index.html",
+    "main.74322d80.css.map": "/portifolio/static/css/main.74322d80.css.map",
+    "main.a2b3c4e5.js.map": "/portifolio/static/js/main.a2b3c4e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ddf586e.css",
-    "static/js/main.ccfa726a.js"
+    "static/css/main.74322d80.css",
+    "static/js/main.a2b3c4e5.js"
   ]
 }
