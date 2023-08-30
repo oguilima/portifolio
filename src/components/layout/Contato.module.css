@@ -1,0 +1,18 @@
+.contatoContainer{
+    color: white;
+    background-color: #2b2f45;
+    height: 93.7vh;
+}
+
+.contatoInfos{
+    display: flex;
+    justify-content: center;
+}
+
+.contatosTitulo{
+    margin-top: 2vh;
+}
+
+.contatos{
+    margin: 3vh;
+}

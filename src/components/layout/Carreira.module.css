@@ -1,0 +1,25 @@
+.containerCarreira{
+    min-height: 94.4vh;
+    height: max-content;
+    background-color: #2b2f45;
+    color: white;
+}
+
+.tituloLinhaTempo{
+    display: flex;
+    justify-content: center;
+}
+
+.resumoCarreira{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap; /* Allows cards to wrap onto new lines */
+}
+
+/* Media query for screens with max-width of 768px */
+@media (max-width: 768px) {
+    .resumoCarreira {
+        flex-direction: column; /* Stack cards vertically on small screens */
+        align-items: center; /* Center content horizontally */
+    }
+}

@@ -1,0 +1,26 @@
+.container {
+  background-image: url('../../utils/img/background.jpg');
+  height: 93vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.apresentacaoWrapper {
+  width: 80%;
+  padding-top: 14vh;
+  border-radius: 25px;
+  top: 20px;
+  left: 50vh;
+  display: flex;
+  justify-content: center;
+}
+
+.sobreMim{
+  display: flex;
+  justify-content: center;
+  background-color: #2b2f45;
+}

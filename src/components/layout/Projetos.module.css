@@ -1,0 +1,24 @@
+.projetosContainer{
+    background-color: #2b2f45;
+    width: 100%;
+    min-height: 93.7vh;
+    height: max-content;
+    color: white;
+}
+
+.projetosTitulo{
+    padding: 4vh;
+}
+
+.projetos{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+    .projetos {
+        flex-direction: column; /* Stack cards vertically on small screens */
+        align-items: center; /* Center content horizontally */
+    }
+}

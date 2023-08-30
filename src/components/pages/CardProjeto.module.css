@@ -1,0 +1,59 @@
+.cardProjeto{
+    border: 2px solid rgba(255, 255, 255, 0.245);
+    background-color: #ffffff09;
+    border-radius: 15px;
+    width: 30%;
+    min-height: 70vh;
+    height: max-content;
+    margin: 2vh;
+}
+
+.projetoImg{
+    height: 45vh;
+    margin: 1vh;
+}
+
+@media (max-width: 768px) {
+    .cardProjeto {
+        width: 80%;
+    }
+}
+
+.containerTituloProjeto{
+    margin-top: 1vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.maisInfosProjeto{
+    margin: 2vh;
+}
+
+.maisInfosProjeto p{
+    word-wrap: break-word;
+}
+
+.imagemProjeto{
+    width: 100%;
+    height: 100%;
+    border-radius: 15px 15px 0px 0px;
+    border: 2px solid  rgba(255, 255, 255, 0.245);
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+}
+
+.linkProjeto{
+    color: rgb(175, 162, 249);
+    margin: 2vh;
+}
+
+.listaTecDiv{
+    margin: 2vh;
+}
+
+.accordion{
+    color: white !important;
+    background-color: rgba(255, 255, 255, 0.041) !important;
+}

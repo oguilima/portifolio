@@ -1,0 +1,34 @@
+.containerCardEmpresa{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    border: 2px solid rgba(255, 255, 255, 0.245);
+    border-radius: 15px;
+    width: 55vh;
+    min-height: 30vh;
+    background-color: #ffffff09;
+}
+
+.tituloEmpresa{
+    margin: 1vh;
+}
+
+.infoCardEmpresa{
+    margin: 2vh;
+}
+
+@media (max-width: 768px) {
+    .containerCardEmpresa {
+        width: 80%;
+    }
+}
+
+.imagemEmpresa{
+    margin: 2vh;
+    padding-bottom: 2vh;
+    border-bottom: 1px solid #fff;
+}
+.imgEmpresa{
+    width: 100%;
+    height: 50vh;
+    border-radius: 20px;
+}

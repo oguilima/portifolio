@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+
+*{
+    font-family: 'Rubik', sans-serif;
+}
+
+
+.maisInfo{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2vh;
+    align-items: center;
+}
+
+.icone{
+    font-size: 5vh;
+    cursor: pointer;
+}
+
+.icone:hover{
+    color: rgb(65, 65, 65)
+}
+
+
+.stacks{
+    margin-top: 5vh;
+    display: flex;
+    justify-content: end;
+}
+
+.stackBox{
+    width: 50vh;
+    background-color: rgba(240, 248, 248, 0.352);
+    border: 1px solid white;
+    border-radius: 20px;
+    height: max-content;
+}
+
+.tituloTech{
+    font-size: 3vh;
+    margin: 2vh;
+}
+
+.listaTech{
+    display: flex;
+    overflow: auto;
+}

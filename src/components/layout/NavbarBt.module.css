@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.navItens{
+    justify-content: end;
+}
+
+.barra{
+    background-color: #232323 !important;
+}
+
+.itens{
+    color:#fff;
+    cursor: pointer;
+    text-decoration: none;
+}
