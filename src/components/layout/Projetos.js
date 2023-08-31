@@ -113,7 +113,7 @@ export default function Projetos() {
                     DESCRICAO: "Foi utilizado MySql para consulta das informações relacionadas aos usuários."
                 }]} />
 
-                <CardProjeto titulo="Portifólio" tipo="Pessoal" paragrafo="Meu portfólio tem como propósito compartilhar um pouco sobre mim, minha trajetória profissional, os projetos que desenvolvi e o conhecimento que adquiri ao longo do tempo. Nele, você encontrará insights sobre meu percurso e o progresso da minha carreira, evidenciando meu constante aprendizado e aprimoramento à medida que avanço." imagem={portifolioImg} tecnologias={[{
+                <CardProjeto titulo="Portifólio" tipo="Pessoal" paragrafo="Meu portfólio tem como propósito compartilhar um pouco sobre mim, minha trajetória profissional, os projetos que desenvolvi e o conhecimento que adquiri ao longo do tempo. Nele, você encontrará insights sobre meu percurso e o progresso da minha carreira, evidenciando meu constante aprendizado e aprimoramento à medida que avanço." linkGh="https://github.com/oguilima/portifolio" imagem={portifolioImg} tecnologias={[{
                     TITULO: "ReactJs",
                     DESCRICAO: "Foi utilizado ReactJs para desenvolver o front-end da aplicação."
                 }, {

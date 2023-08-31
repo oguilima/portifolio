@@ -13,7 +13,7 @@ function NavbarBt() {
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse className={styles.navItens}>
                     <Nav>
-                        <Nav.Link ><Link to="/" className={styles.itens}>Sobre mim</Link></Nav.Link>
+                        <Nav.Link ><Link to="/portifolio" className={styles.itens}>Sobre mim</Link></Nav.Link>
                         <Nav.Link ><Link to="/projetos" className={styles.itens}>Projetos</Link></Nav.Link>
                         <Nav.Link ><Link to="/carreira" className={styles.itens}>Carreira</Link></Nav.Link>
                         <Nav.Link ><Link to="/contato" className={styles.itens}>Contato</Link></Nav.Link>
