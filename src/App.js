@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 //components
 import NavbarBt from './components/layout/NavbarBt';
 import Home from './components/layout/Home';
-import Sobre from './components/layout/Sobre';
 import Carreira from './components/layout/Carreira';
 import Projetos from './components/layout/Projetos';
 import Contato from './components/layout/Contato';
@@ -14,7 +13,6 @@ function App() {
       <NavbarBt />
 
       <Routes>
-        <Route path="/sobre" element={<Sobre />} />
         <Route path="/carreira" element={<Carreira />} />
         <Route path="/projetos" element={<Projetos />} />
         <Route path="/contato" element={<Contato />} />

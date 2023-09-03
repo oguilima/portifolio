@@ -1,18 +1,34 @@
 import style from './CardImg.module.css'
 
-export default function CardImg({titulo, paragrafo, imagemSource}){
+export default function CardImg({ titulo, paragrafo, imagemSource, tipo }) {
     return (
+
         <div className={style.cardContainer}>
             <div className={style.esq}>
-                <div className={style.textosContainer}>
-                    <h2>{titulo}</h2>
-                    <p>{paragrafo}</p>
-                </div>
+                {tipo == "normal" ?
+                    <div className={style.textosContainer}>
+                        <h2>{titulo}</h2>
+                        <p>{paragrafo}</p>
+                    </div> 
+                    :
+                    <div className={style.imgContainer}>
+                        <img className={style.imgCard} src={imagemSource} />
+                    </div>
+                }
             </div>
+
             <div className={style.dir}>
-                <div className={style.imgContainer}>
-                    <img className={style.imgCard} src={imagemSource} />
-                </div>
+                {tipo == "normal" ?
+                    <div className={style.imgContainer}>
+                        <img className={style.imgCard} src={imagemSource} />
+                    </div> 
+                    :
+                    <div className={style.textosContainer}>
+                        <h2>{titulo}</h2>
+                        <p>{paragrafo}</p>
+                    </div>
+                }
+
             </div>
         </div>
     )
