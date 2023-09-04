@@ -47,7 +47,7 @@ export default function Contato() {
                     <div className={style.contatos}>
                         <ul>
                             <li>Email: oficialguilima@gmail.com</li>
-                            <li>Celular: +55 011 972285197</li>
+                            <li>Celular: <a rel='noreferrer' target='_blank' href='https://wa.me/5511972285197'>+55 11 97228 5197</a></li>
                             <li><a rel="noreferrer" target="_blank" href="https://linkedin.com/in/oguilima">Linkedin</a></li>
                             <li><a rel="noreferrer" target='_blank' href='https://github.com/oguilima'>GitHub</a></li>
                         </ul>
