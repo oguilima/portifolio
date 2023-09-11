@@ -19,7 +19,7 @@ export default function Projetos() {
 
             <div className={style.projetos}>
 
-            <CardProjeto titulo="Prescrição Médica" tipo="Pessoal" paragrafo="O projeto de prescrição médica tem como objetivo de ser um sistema completo de prescrição de medicamento a pacientes. O sistema foi desenvolvido inteiro do zero, desde a modelagem do banco,  até as telas no front-end utilizando Angular. Nele é possível cadastrar os pacientes e os médicos, os médicos tem a possibilidade de cadastrar medicamentos, prescrever receitas médicas e visualizar o histórico de prescrições dos usuários." imagem={prescImg} tecnologias={[{
+            <CardProjeto titulo="Prescrição Médica" tipo="Pessoal" paragrafo="O projeto de prescrição médica tem como objetivo de ser um sistema completo de prescrição de medicamento a pacientes. O sistema foi desenvolvido inteiro do zero, desde a modelagem do banco,  até as telas no front-end utilizando Angular. Nele é possível cadastrar os pacientes e os médicos, os médicos tem a possibilidade de cadastrar medicamentos, prescrever receitas médicas e visualizar o histórico de prescrições dos usuários." imagem={prescImg} linkGh="https://github.com/oguilima/fullProject-PrescricaoMedica" tecnologias={[{
                     TITULO: "Angular",
                     DESCRICAO: "Foi utilizado no front-end do projeto."
                 }, {
