@@ -10,6 +10,7 @@ import cpaImg from '../../utils/img/cpa.png'
 import gestFatImg from '../../utils/img/gestaoFat.jpg'
 import gestUsuImg from '../../utils/img/gestUsua.jpg'
 import cotEleImg from '../../utils/img/cotacaoEletronica.jpg'
+import prescImg from '../../utils/img/prescricaoMedica.png'
 
 export default function Projetos() {
     return (
@@ -17,6 +18,29 @@ export default function Projetos() {
             <h1 className={style.projetosTitulo}>Principais projetos:</h1>
 
             <div className={style.projetos}>
+
+            <CardProjeto titulo="Prescrição Médica" tipo="Pessoal" paragrafo="O projeto de prescrição médica tem como objetivo de ser um sistema completo de prescrição de medicamento a pacientes. O sistema foi desenvolvido inteiro do zero, desde a modelagem do banco,  até as telas no front-end utilizando Angular. Nele é possível cadastrar os pacientes e os médicos, os médicos tem a possibilidade de cadastrar medicamentos, prescrever receitas médicas e visualizar o histórico de prescrições dos usuários." imagem={prescImg} tecnologias={[{
+                    TITULO: "Angular",
+                    DESCRICAO: "Foi utilizado no front-end do projeto."
+                }, {
+                    TITULO: "Angular Material",
+                    DESCRICAO: "Utilizado como biblioteca de estilização para o projeto."
+                }, {
+                    TITULO: "PostgreSQL",
+                    DESCRICAO: "Foi utilizado PostgreSQL como banco de dados."
+                }, {
+                    TITULO: "NodeJs",
+                    DESCRICAO: "Foi utilizado o NodeJs para desenvolvimento do back-end do projeto."
+                }, {
+                    TITULO: "Express",
+                    DESCRICAO: "Foi utilizado o express para facilitar a criação das rotas e de outras funcionalidades do sistema."
+                }, {
+                    TITULO: "Swagger",
+                    DESCRICAO: "Foi utilizado o Swagger para documentar as rotas da aplicação."
+                }, {
+                    TITULO: "Jest",
+                    DESCRICAO: "Utilizado para testes automatizados."
+                }]} />
 
                 <CardProjeto titulo="Produto Acabado" tipo="Crown Cork" paragrafo="O sistema de cadastro de produtos acabados foi elaborado na plataforma fluig, visando estabelecer um controle mais efetivo sobre os produtos finais da Crown. Esse sistema permite uma gestão mais precisa do processo de cadastramento dos itens destinados à produção da empresa. Através da automatização desse procedimento, tornou-se possível a análise dos indicadores que identificam eventuais pontos críticos e métricas relevantes. Esse enfoque possibilitou um gerenciamento mais eficiente e abrangente do projeto em pauta." imagem={cpaImg} tecnologias={[{
                     TITULO: "Fluig",
