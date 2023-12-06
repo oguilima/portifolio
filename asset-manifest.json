@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portifolio/static/css/main.fa1ca647.css",
-    "main.js": "/portifolio/static/js/main.76a0ed47.js",
+    "main.js": "/portifolio/static/js/main.243d43af.js",
     "static/media/background.jpg": "/portifolio/static/media/background.3fd16453471d8b9b186d.jpg",
     "static/media/portifolio.png": "/portifolio/static/media/portifolio.08f4bab96186170759a5.png",
     "static/media/prescricaoMedica.png": "/portifolio/static/media/prescricaoMedica.87090f4050123089e21f.png",
@@ -22,10 +22,10 @@
     "static/media/luna.jpeg": "/portifolio/static/media/luna.bb0ccac3dcd4a2f3e49f.jpeg",
     "index.html": "/portifolio/index.html",
     "main.fa1ca647.css.map": "/portifolio/static/css/main.fa1ca647.css.map",
-    "main.76a0ed47.js.map": "/portifolio/static/js/main.76a0ed47.js.map"
+    "main.243d43af.js.map": "/portifolio/static/js/main.243d43af.js.map"
   },
   "entrypoints": [
     "static/css/main.fa1ca647.css",
-    "static/js/main.76a0ed47.js"
+    "static/js/main.243d43af.js"
   ]
 }
