@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portifolio/static/css/main.fa1ca647.css",
-    "main.js": "/portifolio/static/js/main.279bbb35.js",
+    "main.js": "/portifolio/static/js/main.0cf94b34.js",
     "static/media/background.jpg": "/portifolio/static/media/background.3fd16453471d8b9b186d.jpg",
     "static/media/portifolio.png": "/portifolio/static/media/portifolio.08f4bab96186170759a5.png",
     "static/media/prescricaoMedica.png": "/portifolio/static/media/prescricaoMedica.87090f4050123089e21f.png",
@@ -16,15 +16,16 @@
     "static/media/zara.jpeg": "/portifolio/static/media/zara.db50d86573b9f007dfa9.jpeg",
     "static/media/cpa.png": "/portifolio/static/media/cpa.2bdb095d5a8162b1a7e1.png",
     "static/media/podcastr.jpg": "/portifolio/static/media/podcastr.fcd95f25ca3317732bf7.jpg",
+    "static/media/totvs.png": "/portifolio/static/media/totvs.bb2908ad29c362fd3541.png",
     "static/media/gestUsua.jpg": "/portifolio/static/media/gestUsua.9979c3f5ed2153d8f4ea.jpg",
     "static/media/saopaulo.jpg": "/portifolio/static/media/saopaulo.3af2c8153c55c27cf0e5.jpg",
     "static/media/luna.jpeg": "/portifolio/static/media/luna.bb0ccac3dcd4a2f3e49f.jpeg",
     "index.html": "/portifolio/index.html",
     "main.fa1ca647.css.map": "/portifolio/static/css/main.fa1ca647.css.map",
-    "main.279bbb35.js.map": "/portifolio/static/js/main.279bbb35.js.map"
+    "main.0cf94b34.js.map": "/portifolio/static/js/main.0cf94b34.js.map"
   },
   "entrypoints": [
     "static/css/main.fa1ca647.css",
-    "static/js/main.279bbb35.js"
+    "static/js/main.0cf94b34.js"
   ]
 }
