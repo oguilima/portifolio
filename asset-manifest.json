@@ -1,31 +1,39 @@
 {
   "files": {
-    "main.css": "/portifolio/static/css/main.fa1ca647.css",
-    "main.js": "/portifolio/static/js/main.2249c5e3.js",
-    "static/media/background.jpg": "/portifolio/static/media/background.3fd16453471d8b9b186d.jpg",
+    "main.css": "/portifolio/static/css/main.6ef39511.css",
+    "main.js": "/portifolio/static/js/main.53cf6d6c.js",
+    "static/media/matrix.gif": "/portifolio/static/media/matrix.90477685d42c4d47a387.gif",
     "static/media/portifolio.png": "/portifolio/static/media/portifolio.08f4bab96186170759a5.png",
     "static/media/prescricaoMedica.png": "/portifolio/static/media/prescricaoMedica.87090f4050123089e21f.png",
     "static/media/cotacaoEletronica.jpg": "/portifolio/static/media/cotacaoEletronica.d5245d6d3878d3cc8b0b.jpg",
+    "static/media/reactLogo.png": "/portifolio/static/media/reactLogo.81ed438b18e24116794d.png",
     "static/media/mfx.jpeg": "/portifolio/static/media/mfx.3ec2415442428aa96c8b.jpeg",
     "static/media/gestaoFat.jpg": "/portifolio/static/media/gestaoFat.91a8273bb72f66e8c83b.jpg",
-    "static/media/casal.jpeg": "/portifolio/static/media/casal.48f047e87552ff29beb0.jpeg",
     "static/media/perfil.jpg": "/portifolio/static/media/perfil.bc4ec727cafcd3cf8a8d.jpg",
     "static/media/tougths.png": "/portifolio/static/media/tougths.4ddebe58ac282a94131e.png",
     "static/media/getapet.png": "/portifolio/static/media/getapet.0dcd3139dfe4b8be73e3.png",
+    "static/media/nodeLogo.png": "/portifolio/static/media/nodeLogo.905931250ea427818b1f.png",
     "static/media/ha.jpeg": "/portifolio/static/media/ha.82700ba0df9ddac603c4.jpeg",
     "static/media/zara.jpeg": "/portifolio/static/media/zara.db50d86573b9f007dfa9.jpeg",
     "static/media/cpa.png": "/portifolio/static/media/cpa.2bdb095d5a8162b1a7e1.png",
     "static/media/podcastr.jpg": "/portifolio/static/media/podcastr.fcd95f25ca3317732bf7.jpg",
+    "static/media/SqlServerLogo.jpg": "/portifolio/static/media/SqlServerLogo.99621030c9a5e50593a0.jpg",
+    "static/media/angularLogo.png": "/portifolio/static/media/angularLogo.17ca640487494f28400f.png",
+    "static/media/JavaLogo.jpg": "/portifolio/static/media/JavaLogo.f8f1b000c13f8900b803.jpg",
+    "static/media/mongologo.png": "/portifolio/static/media/mongologo.2c957ee3769d1902a8ab.png",
+    "static/media/MySqlLogo.png": "/portifolio/static/media/MySqlLogo.c3e2f97def97d1b3f84c.png",
     "static/media/totvs.png": "/portifolio/static/media/totvs.bb2908ad29c362fd3541.png",
+    "static/media/tsLogo.png": "/portifolio/static/media/tsLogo.659e4b9351cf1baa6930.png",
     "static/media/gestUsua.jpg": "/portifolio/static/media/gestUsua.9979c3f5ed2153d8f4ea.jpg",
-    "static/media/saopaulo.jpg": "/portifolio/static/media/saopaulo.3af2c8153c55c27cf0e5.jpg",
-    "static/media/luna.jpeg": "/portifolio/static/media/luna.bb0ccac3dcd4a2f3e49f.jpeg",
+    "static/media/Technoma.otf": "/portifolio/static/media/Technoma.c20aed298c33e63c5802.otf",
+    "static/media/jsLogo.png": "/portifolio/static/media/jsLogo.49af7f28ec2699f6d7f5.png",
+    "static/media/NestLogo.svg": "/portifolio/static/media/NestLogo.8cc42ce999a70203a1c22175f7a6bc52.svg",
     "index.html": "/portifolio/index.html",
-    "main.fa1ca647.css.map": "/portifolio/static/css/main.fa1ca647.css.map",
-    "main.2249c5e3.js.map": "/portifolio/static/js/main.2249c5e3.js.map"
+    "main.6ef39511.css.map": "/portifolio/static/css/main.6ef39511.css.map",
+    "main.53cf6d6c.js.map": "/portifolio/static/js/main.53cf6d6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa1ca647.css",
-    "static/js/main.2249c5e3.js"
+    "static/css/main.6ef39511.css",
+    "static/js/main.53cf6d6c.js"
   ]
 }
