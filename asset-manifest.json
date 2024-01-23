@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portifolio/static/css/main.6ef39511.css",
-    "main.js": "/portifolio/static/js/main.53cf6d6c.js",
+    "main.css": "/portifolio/static/css/main.8b08191c.css",
+    "main.js": "/portifolio/static/js/main.390b674c.js",
     "static/media/matrix.gif": "/portifolio/static/media/matrix.90477685d42c4d47a387.gif",
     "static/media/portifolio.png": "/portifolio/static/media/portifolio.08f4bab96186170759a5.png",
     "static/media/prescricaoMedica.png": "/portifolio/static/media/prescricaoMedica.87090f4050123089e21f.png",
@@ -18,22 +18,22 @@
     "static/media/cpa.png": "/portifolio/static/media/cpa.2bdb095d5a8162b1a7e1.png",
     "static/media/podcastr.jpg": "/portifolio/static/media/podcastr.fcd95f25ca3317732bf7.jpg",
     "static/media/SqlServerLogo.jpg": "/portifolio/static/media/SqlServerLogo.99621030c9a5e50593a0.jpg",
+    "static/media/totvs.jpeg": "/portifolio/static/media/totvs.8eb36b5cc8e0faf2b0a3.jpeg",
     "static/media/angularLogo.png": "/portifolio/static/media/angularLogo.17ca640487494f28400f.png",
     "static/media/JavaLogo.jpg": "/portifolio/static/media/JavaLogo.f8f1b000c13f8900b803.jpg",
     "static/media/mongologo.png": "/portifolio/static/media/mongologo.2c957ee3769d1902a8ab.png",
     "static/media/MySqlLogo.png": "/portifolio/static/media/MySqlLogo.c3e2f97def97d1b3f84c.png",
-    "static/media/totvs.png": "/portifolio/static/media/totvs.bb2908ad29c362fd3541.png",
     "static/media/tsLogo.png": "/portifolio/static/media/tsLogo.659e4b9351cf1baa6930.png",
     "static/media/gestUsua.jpg": "/portifolio/static/media/gestUsua.9979c3f5ed2153d8f4ea.jpg",
     "static/media/Technoma.otf": "/portifolio/static/media/Technoma.c20aed298c33e63c5802.otf",
     "static/media/jsLogo.png": "/portifolio/static/media/jsLogo.49af7f28ec2699f6d7f5.png",
     "static/media/NestLogo.svg": "/portifolio/static/media/NestLogo.8cc42ce999a70203a1c22175f7a6bc52.svg",
     "index.html": "/portifolio/index.html",
-    "main.6ef39511.css.map": "/portifolio/static/css/main.6ef39511.css.map",
-    "main.53cf6d6c.js.map": "/portifolio/static/js/main.53cf6d6c.js.map"
+    "main.8b08191c.css.map": "/portifolio/static/css/main.8b08191c.css.map",
+    "main.390b674c.js.map": "/portifolio/static/js/main.390b674c.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ef39511.css",
-    "static/js/main.53cf6d6c.js"
+    "static/css/main.8b08191c.css",
+    "static/js/main.390b674c.js"
   ]
 }
